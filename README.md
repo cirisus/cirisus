@@ -2,7 +2,7 @@
 
 Chan(cirisus, he/him). Front-end techs learning.
 
-[![Tech-stack, 2024.02](https://skillicons.dev/icons?i=js,html,css,svelte,scss,ts,figma,ai,ae)](https://skillicons.dev)
+[![Tech-stack, 2024.04](https://skillicons.dev/icons?i=js,html,css,svelte,scss,ts,figma,ai,ae)](https://skillicons.dev)
 
 ## Statics
 [![Cirisuser](https://github-readme-stats.vercel.app/api?username=cirisus&hide=stars&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
