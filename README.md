@@ -6,4 +6,4 @@ Chan(or cirisus). Front-end techs learning.
 
 I major in Mechanics(Department of Precision Instrument, DPI).
 
-[![Tech-stack, 2025.02](https://skillicons.dev/icons?i=autocad,matlab,latex)](https://skillicons.dev), and Zemax/UGNX/Caxa/Solidworks/Origin/Altium Designer/OrCAD/LTspice/TwinCAT 3.
+[![Tech-stack, 2025.02](https://skillicons.dev/icons?i=autocad,matlab,latex)](https://skillicons.dev), and Zemax/UGNX/Caxa/Solidworks/Origin/Altium Designer/OrCAD/LTspice/TwinCAT 3/ModelSim.
