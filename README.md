@@ -1,6 +1,6 @@
 Jacy Chan, or cirisus.
 
-I major in Mechanics (Department of Precision Instrument, DPI), and hope to earn my PhD degree from the HKU.🫠
+I major in Mechanics (Department of Precision Instrument, DPI), and hope to earn my PhD degree from HKU...🫠
 
 ### I do most of my work with:
 
