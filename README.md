@@ -4,7 +4,7 @@ I major in Mechanics (Department of Precision Instrument, DPI).
 
 ### I do most of my work with:
 
-- Engineering: MATLAB, LaTeX, Origin, Zemax
+- Engineering: MATLAB, LaTeX, Origin, Zemax, Fiji/ImageJ, Amira
 - CAD & Modeling: AutoCAD, Siemens NX (UGNX), Caxa
 - Electronics: Altium Designer, Xilinx ISE, ModelSim
 - Collaboration: Jira, Confluence
